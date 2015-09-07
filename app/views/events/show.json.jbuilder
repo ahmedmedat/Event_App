@@ -1,0 +1,8 @@
+json.id(@event.id)
+json.username(@event.username)
+json.name(@event.name)
+json.description(@event.description)
+json.location(@event.location)
+json.date(@event.date)
+json.created_at(@event.created_at)
+json.updated_at(@event.updated_at)
